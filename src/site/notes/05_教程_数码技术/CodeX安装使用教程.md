@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05_教程_数码技术/CodeX安装使用教程/"}
+{"dg-publish":true,"permalink":"/05_教程_数码技术/CodeX安装使用教程/","tags":["gardenEntry"]}
 ---
 
 
